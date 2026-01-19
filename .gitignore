@@ -28,3 +28,4 @@ Thumbs.db
 prisma/*.db
 prisma/*.db-journal
 src/generated/
+package-lock.json
